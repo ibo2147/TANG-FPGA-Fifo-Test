@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/TOP.v",
+  "InstLine" : 5,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/TOP.v",
+  "ModuleLine" : 5,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/TOP.v",
+    "InstLine" : 27,
+    "InstName" : "my_fifo",
+    "ModuleFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/fifo_hs/fifo_hs.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "FIFO_HS_Top"
+   },
+   {
+    "InstFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/TOP.v",
+    "InstLine" : 40,
+    "InstName" : "my_pll",
+    "ModuleFile" : "C:/Gowin/my3_h/fifo_ex1b5h/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   }
+  ]
+ }
+]

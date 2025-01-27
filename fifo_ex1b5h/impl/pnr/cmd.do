@@ -1,0 +1,11 @@
+-d C:\Gowin\my3_h\fifo_ex1b5h\impl\gwsynthesis\fifo_ex1.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\Gowin\my3_h\fifo_ex1b5h\src\const_h.cst
+-cfg C:\Gowin\my3_h\fifo_ex1b5h\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23
